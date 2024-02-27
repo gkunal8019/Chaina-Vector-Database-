@@ -1,4 +1,4 @@
-# Tencent Cloud VectorDB
+# <span style="color:#005CAF;">Tencent Cloud VectorDB</span>
 
 Welcome to the repository for Tencent Cloud VectorDB! VectorDB is a high-performance vector database service provided by Tencent Cloud, designed to efficiently store and query high-dimensional vectors, commonly used in machine learning and similarity search applications. This README provides comprehensive information about VectorDB, including pricing details, use cases, and integration examples.
 
@@ -32,4 +32,4 @@ Explore integration examples of Lamaindex with Milvus for efficient indexing and
 
 ---
 
-Feel free to explore the provided links for detailed documentation, code samples, and tutorials. If you have any questions, feedback, or suggestions for improvement, please don't hesitate to open an issue or contribute to this repository. Thank you for choosing Tencent Cloud VectorDB!
+Feel free to explore the provided links for detailed documentation, code samples, and tutorials. If you have any questions, feedback, or suggestions for improvement, please don't hesitate to open an issue or contribute to this repository. Thank you for choosing <span style="color:#005CAF;">Tencent Cloud VectorDB</span>!
